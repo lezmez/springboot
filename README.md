@@ -115,3 +115,6 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+
+# Lombok
+lombok.config 
