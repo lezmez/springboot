@@ -73,10 +73,10 @@ DELETE
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tuusuario/gestion-productos-reactivo.git
+git clone https://github.com/lezmez/springboot.git
 
 # Entrar al proyecto
-cd gestion-productos-reactivo
+cd springboot
 
 # Ejecutar el proyecto
 ./mvnw spring-boot:run
@@ -118,3 +118,4 @@ Thumbs.db
 
 # Lombok
 lombok.config 
+
